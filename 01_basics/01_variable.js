@@ -6,8 +6,8 @@ let accountState;
 
 // accountId=66 // not allowed
 
-accountEmail = "umarsantosh@gmail.com"
-accountPassword = 87878787878
+accountEmail = "umarsantosh@gmail.com" // let me hum direct change kr skteh h 
+accountPassword = 87878787878 
 accountCity = "New York"
 
 /*
