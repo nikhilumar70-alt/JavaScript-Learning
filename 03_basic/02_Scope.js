@@ -41,5 +41,22 @@ if(true){
 }
 // console.log(username)
 
+// ************intresting*********
+// console.log(bahubali(5))
+
+
+// ye code ka function format orint jayega butt.....
+console.log(bahubali(3))
+function bahubali(num) {
+    return num + 1
+}
+
+
+//...agar ye function ko kisi variable me store karoge to iss tarike nhi print bho payue ga 
+const User = function (num) {
+    return num +2 
+}
+// User(4)
+console.log(User(4))
 
 
